@@ -107,7 +107,17 @@ food.html
 
 ## OUTPUT
 
+![alt text](<Screenshot 2025-12-02 163132.png>)
 
+![alt text](<Screenshot 2025-12-02 163216.png>)
+
+![alt text](<Screenshot 2025-12-02 163247.png>)
+
+![alt text](<Screenshot 2025-12-02 163339.png>)
+
+![alt text](<Screenshot 2025-12-02 163400.png>)
+
+![alt text](<Screenshot 2025-12-02 163458.png>)
 
 
 
