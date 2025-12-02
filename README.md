@@ -1,5 +1,5 @@
 # Ex03 Places Around Me
-## Date: 
+## Date:29/11/2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -28,7 +28,82 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
+<html>
+    <head>
+        <title> Sample Page </title>
+    </head>
+    <body>
+        <h1 align ="centre">CHENNAI CITY </h1>
+        <h2 align ="centre"> Pravalika(25018550)</h2>
+        <img src="Screenshot 2025-11-28 112642.png" usemap="#image-map">
 
+<map name="image-map">
+    <area target="" alt="Sri Veera's Creations" title="Sri Veera's Creations" href="veera's.html" coords="1067,717,1317,798" shape="rect">
+    <area target="" alt="Avanthika Enfield Garage" title="Avanthika Enfield Garage" href="garage.html" coords="1029,311,1212,386" shape="rect">
+    <area target="" alt="Ziya fashions" title="Ziya fashions" href="fashion.html" coords="1448,293,61" shape="circle">
+    <area target="" alt="Sri Raghavendra Hospital" title="Sri Raghavendra Hospital" href="hospital.html" coords="1168,8,1043,91,1261,136,1261,55,1261,130,1263,54" shape="poly">
+    <area target="" alt="Public Food Shelter" title="Public Food Shelter" href="food.html" coords="1752,157,76" shape="circle">
+</map>
+    </body>
+</html>
+
+veera's.html           
+<html>
+    <head>
+        <title>Sri Veera's Creations</title>
+    </head>
+    <body bgcolor="red">
+        <h1>Sri Veera's Creations</h1>
+        <p>Sri Veera's Creations in Chennai is a well known retail store a wide range of textiles,including silksarees,designer sarees, men's wear,and garments,known for afforable prices and good qualily.</p>
+    </body>
+</html>
+
+garage.html  
+<html>
+    <head>
+        <title>Avanthika Enfield Garage</title>
+    </head>
+    <body bgcolor="blue">
+        <h1>Avanthika Enfield Garage</h1>
+        <p>In Chennai there 26 to 28 Royal Enfields dealerships.These locations  include brand stores and individual showrooms,which offer the full  range of royal Enfieldmodels</p>
+    </body>
+</html>
+
+fashion.html  
+<html>
+    <head>
+        <title>Ziya fashions</title>
+    </head>
+    <body bgcolor="pink">
+        <h1>Ziya fashions</h1>
+        <p> Ziya fashions in Chennai appears to bea general name for several  fashions businessess,with locations in areas like Madipakkam and Ayappakkam.  Some Ziya fashions are of a larger network ,while others are distinct local establishment</p>
+    </body>
+</html>
+
+hospital.html  
+<html>
+    <head>
+        <title>Sri Raghavendra Hospital</title>
+    </head>
+    <body bgcolor= "purple">
+        <h1>Sri Raghavendra Hospital</h1>
+        <p>A hospital rooted in great foundation based out of Ayurveda and siddha concepts.  The reatments involves various therapeuric treatment,various herbal oils ,etc </p>
+    </body>
+</html>
+
+food.html  
+<html>
+    <head>
+        <title>Public Food Shelter</title>
+    </head>
+    <body bgcolor="yellow">
+        <h1>Public Food Shelter</h1>
+        <p>Public food shelters are facilities that provide temporary or permanent refuge and essential services to vvulnerable populations,such as the homeless, victims of domestic abuse or those displaced by disasters.</p>
+    </body>
+</html>
+
+```
 
 ## OUTPUT
 
