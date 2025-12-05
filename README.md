@@ -1,5 +1,5 @@
 # Ex03 Places Around Me
-## Date:29/11/2025
+## Date:05/12/2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -106,18 +106,18 @@ food.html
 ```
 
 ## OUTPUT
+[alt text](<Screenshot 2025-12-05 112946.png>)
 
-![alt text](<Screenshot 2025-12-02 163132.png>)
+[alt text](<Screenshot 2025-12-05 113208.png>)
 
-![alt text](<Screenshot 2025-12-02 163216.png>)
+[alt text](<Screenshot 2025-12-05 113227.png>)
 
-![alt text](<Screenshot 2025-12-02 163247.png>)
+[alt text](<Screenshot 2025-12-05 113151.png>)
 
-![alt text](<Screenshot 2025-12-02 163339.png>)
+[alt text](<Screenshot 2025-12-05 113303.png>)
 
-![alt text](<Screenshot 2025-12-02 163400.png>)
+![alt text](<Screenshot 2025-12-05 113242.png>)
 
-![alt text](<Screenshot 2025-12-02 163458.png>)
 
 
 
