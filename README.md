@@ -106,15 +106,15 @@ food.html
 ```
 
 ## OUTPUT
-[alt text](<Screenshot 2025-12-05 112946.png>)
+![alt text](<Screenshot 2025-12-05 112946-1.png>)
 
-[alt text](<Screenshot 2025-12-05 113208.png>)
+![alt text](<Screenshot 2025-12-05 113208-1.png>)
 
-[alt text](<Screenshot 2025-12-05 113227.png>)
+![alt text](<Screenshot 2025-12-05 113227-1.png>)
 
-[alt text](<Screenshot 2025-12-05 113151.png>)
+![alt text](<Screenshot 2025-12-05 113151-1.png>)
 
-[alt text](<Screenshot 2025-12-05 113303.png>)
+![alt text](<Screenshot 2025-12-05 113303-1.png>)
 
 ![alt text](<Screenshot 2025-12-05 113242.png>)
 
